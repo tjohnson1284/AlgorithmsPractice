@@ -1,0 +1,1 @@
+This project will contain my homework and any projects from my algorithms class.
